@@ -1,0 +1,6 @@
+if SHIELD_BORT75
+
+config ZMK_KEYBOARD_NAME
+    default "bort75"
+
+endif
